@@ -29,6 +29,7 @@
   padding: 30px 0;
   max-width: 900px;
   background-image: url("./assets/background-cv.webp");
+  background-size: cover;
 }
 
 .photo {
@@ -162,7 +163,8 @@
   background-color: var(--third-text-color);
 }
 
-.skills {
+.skills,
+.language {
   margin-left: 20px;
 }
 
