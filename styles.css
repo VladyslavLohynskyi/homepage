@@ -46,7 +46,7 @@
   line-height: 1.1;
 }
 
-.intro {
+.intro .education-courses {
   padding: 0px 20px;
 }
 
@@ -112,9 +112,29 @@
   color: var(--primary-text-color);
   font-family: var(--secondary-font-style);
   font-weight: 400;
+  font-size: 16px;
 }
-
+.education h3,
+.courses h3 {
+  margin-bottom: 8px;
+}
+.courses p {
+  margin-bottom: 5px;
+}
 .left-column-title {
   display: flex;
   justify-content: center;
+}
+
+.under-title {
+  font-family: var(--secondary-font-style);
+  color: var(--primary-text-color);
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.secondary-paragraph {
+  font-family: var(--secondary-font-style);
+  font-style: italic;
+  color: var(--primary-text-color);
 }
