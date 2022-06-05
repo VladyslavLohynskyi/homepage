@@ -178,3 +178,12 @@
 .exp-title {
   margin-bottom: 5px;
 }
+
+.container-hobbies {
+  margin-top: 10px;
+  display: flex;
+}
+
+.container-hobbies img {
+  margin-right: 10px;
+}
