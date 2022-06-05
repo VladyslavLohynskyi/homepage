@@ -56,14 +56,14 @@
   font-weight: 400;
   color: var(--primary-text-color);
   letter-spacing: 3px;
-  font-size: 18px;
+  font-size: 20px;
 }
 .common-header {
   margin-top: 10px;
   font-family: var(--primary-font-style);
   font-weight: 700;
   color: var(--primary-text-color);
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .common-header-secondary {
@@ -71,7 +71,7 @@
   font-family: var(--primary-font-style);
   font-weight: 700;
   color: var(--primary-text-color);
-  font-size: 20px;
+  font-size: 22px;
 }
 
 .common-paragraph {
@@ -129,7 +129,7 @@
   font-family: var(--secondary-font-style);
   color: var(--primary-text-color);
   font-weight: 700;
-  font-size: 14px;
+  font-size: 18px;
 }
 
 .secondary-paragraph {
@@ -168,4 +168,11 @@
 
 .container-progress {
   margin-top: 10px;
+}
+
+.container-experience {
+  margin: 20px 0;
+}
+.exp-title {
+  margin-bottom: 5px;
 }
